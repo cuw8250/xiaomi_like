@@ -6,6 +6,7 @@
 // @author       wu_
 // @match        *://www.xiaomi.cn/*
 // @grant        none
+// @updateURL https://raw.githubusercontent.com/cuw8250/xiaomi_like/main/xiaomi_like.js
 // ==/UserScript==
 
 (function() {
